@@ -1,0 +1,5 @@
+{
+  "name": "JiraClone",
+  "description": "A pixel-perfect Jira clone built with React, MUI v6, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
